@@ -10,7 +10,7 @@
 
 Introducing **Yoom**, a cutting-edge **real-time video conferencing application** that combines the power of **Next.js, TypeScript, TailwindCSS, shadcn/ui, and the Stream Video API**. Experience seamless and engaging meetings just like Zoom, featuring crystal-clear video calls, effortless screen sharing, and efficient participant management.
 
-🚀 **Explore the Demo:** [yoom-delta-three.vercel.app](URL_7)  
+🚀 **Explore the Demo:** [[yoom-delta-three.vercel.app](https://yoom-delta-three.vercel.app/)](URL_7)  
 
 ---
 
