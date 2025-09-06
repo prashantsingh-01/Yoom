@@ -158,7 +158,7 @@ const MeetingTypeList = () => {
         <Input
           placeholder="Meeting link"
           onChange={(e) =>
-            setValues({ ...values, link: `http://${e.target.value}` })
+            setValues({ ...values, link: e.target.value })
           }
           className="border-none bg-dark-3 focus-visible:ring-0 focus-visible:ring-offset-0"
         />
